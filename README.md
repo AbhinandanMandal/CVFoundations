@@ -1,5 +1,4 @@
 # Computer Vision Fundamentals 
-A comprehensive module consist of computer vision fundamentals. [Read the Docs](https://opencv24-python-tutorials.readthedocs.io/en/latest/)
 
 A collection of **computer vision and image processing implementations** developed for learning, experimentation, and practical understanding of classical vision algorithms. For more details visit [CVF](https://opencv24-python-tutorials.readthedocs.io/en/latest/).
 
